@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say voice="alice">You are dying, goodbye!</Say>
-  <Play>https://demo.twilio.com/docs/classic.mp3</Play>
+<Say voice="alice">
+You are dying.
+</Say>
+<Pause length="1"/>
+<Say voice="alice">
+Good bye
+</Say>
 </Response>
